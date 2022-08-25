@@ -49,7 +49,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
 global.botname = "Àimò Shuǐ Botz" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.websitex = "https://lynk.id/kri.com" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Àimò Shuǐ Botz Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "By krizynofc"
